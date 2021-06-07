@@ -1,13 +1,4 @@
-=====
-mpesa
-=====
 
-Django-Mpesa is a generic python library that interfaces the safaricom
-MPESA APIs to enable easy payments to your python application.
-
-Detailed documentation is in the "docs" directory.
-
-View the module from the  `official pypi site <https://pypi.org/project/django-mpesa/>`__
 
 Quick start
 -----------
@@ -52,7 +43,7 @@ Quick start
 7. Visit http://127.0.0.1:8000/mpesa/ to checkout the library features.
 
 API ENDPONTS
-------------
+
 
 This module exposes some API endpoints that enable you work with MPESA API
 
@@ -64,5 +55,4 @@ This module exposes some API endpoints that enable you work with MPESA API
     
 3. mpesa/check-transaction/
     This endpoint allows you to manually check for the status of an mpesa transaction
-    
-Check out the `test module <https://github.com/Ekirapapaul/django-mpesa/tree/master/tests>`__ for more elaborate examples
+
